@@ -13,3 +13,9 @@ cd app
 ```bash
 docker compose up
 ```
+
+3. Abrir la aplicación en:
+
+```bash
+http://localhost:8081
+```
