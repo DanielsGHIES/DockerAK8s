@@ -19,3 +19,5 @@ docker compose up
 ```bash
 http://localhost:8081
 ```
+
+o desde el enlace del puerto 8081 en el apartado **PUERTOS**
